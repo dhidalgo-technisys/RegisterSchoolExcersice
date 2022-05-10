@@ -1,9 +1,0 @@
-package com.register.infraestructure.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-import com.register.infrastructure.entity.Course;
-@RepositoryRestResource
-public interface CourseRepository extends CrudRepository<Course, Integer> {
-
-}

@@ -1,5 +1,0 @@
-package com.school.registerSchool.exception;
-
-public class IncorrectRegisterRulesException {
-
-}
