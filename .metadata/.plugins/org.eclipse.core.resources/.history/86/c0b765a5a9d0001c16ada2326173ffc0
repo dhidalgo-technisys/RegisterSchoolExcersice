@@ -1,0 +1,5 @@
+package com.school.registerSchool.serviceDomain;
+
+public class RegisterService {
+
+}

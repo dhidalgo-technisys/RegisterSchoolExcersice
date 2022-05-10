@@ -1,0 +1,12 @@
+package com.school.registerSchool.repository;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.school.registerSchool.model.Register;
+
+
+@Repository
+public interface RegisterRepository extends CrudRepository<Register, Integer> {
+
+}

@@ -1,0 +1,5 @@
+package com.school.registerSchool.controller;
+
+public class CourseController {
+
+}

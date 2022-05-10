@@ -1,0 +1,10 @@
+package com.school.registerSchool.repository;
+
+import java.util.Optional;
+
+import com.school.registerSchool.model.Register;
+
+public class RegisterRepositoryImpl implements RegisterRepository {
+
+	
+}
